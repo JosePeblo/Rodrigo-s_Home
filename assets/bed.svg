@@ -31,24 +31,25 @@
      transform="translate(-44.155759,-66.422895)">
     <path
        id="path326"
-       style="fill:#000000;stroke-width:0.120398"
+       style="fill:#ffffff;stroke-width:0.120398"
        d="m 144.40706,99.294029 a 13.47132,9.3824069 0 0 1 13.29206,7.885371 h -26.5898 a 13.47132,9.3824069 0 0 1 13.29774,-7.885371 z" />
     <circle
-       style="fill:#000000;stroke-width:0.264583"
+    
+       style="fill:#ffffff;stroke-width:0.264583"
        id="path328"
        cx="-52.040737"
        cy="74.307846"
        r="7.8849554"
        transform="scale(-1,1)" />
     <circle
-       style="fill:#000000;stroke-width:0.264583"
+       style="fill:#ffffff;stroke-width:0.264583"
        id="path328-8"
        cx="-52.040722"
        cy="133.38177"
        r="7.8849554"
        transform="scale(-1,1)" />
     <rect
-       style="fill:#000000;stroke-width:0.364671"
+       style="fill:#ffffff;stroke-width:0.364671"
        id="rect382"
        width="15.769913"
        height="58.192856"
@@ -56,21 +57,21 @@
        y="75.188919"
        transform="scale(-1,1)" />
     <circle
-       style="fill:#000000;stroke-width:0.363453"
+       style="fill:#ffffff;stroke-width:0.363453"
        id="path328-5-0"
        cx="86.345947"
        cy="73.659515"
        transform="matrix(0,1,1,0,0,0)"
        r="10.831411" />
     <circle
-       style="fill:#000000;stroke-width:0.264583"
+       style="fill:#ffffff;stroke-width:0.264583"
        id="path328-8-64"
        cx="-149.81418"
        cy="134.37009"
        r="7.8849554"
        transform="scale(-1,1)" />
     <rect
-       style="fill:#000000;stroke-width:0.254087"
+       style="fill:#ffffff;stroke-width:0.254087"
        id="rect382-3"
        width="15.769913"
        height="28.250912"
@@ -78,7 +79,7 @@
        y="106.65023"
        transform="scale(-1,1)" />
     <rect
-       style="fill:#000000;stroke-width:0.209203"
+       style="fill:#ffffff;stroke-width:0.209203"
        id="rect464"
        width="89.869423"
        height="21.481653"
@@ -93,11 +94,11 @@
          transform="translate(0,-0.52916663)">
         <path
            id="path328-5-0-7"
-           style="fill:#000000;stroke-width:0.614848"
+           style="fill:#ffffff;stroke-width:0.614848"
            d="M 70.035811,80.526664 C 59.241821,80.526795 50.491697,88.218132 50.491892,97.70572 H 89.57973 C 89.579925,88.218132 80.829801,80.526795 70.035811,80.526664 Z"
            sodipodi:nodetypes="cccc" />
         <rect
-           style="fill:#000000;stroke-width:0.264583"
+           style="fill:#ffffff;stroke-width:0.264583"
            id="rect541"
            width="45.347374"
            height="17.179861"
