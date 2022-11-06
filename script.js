@@ -3,7 +3,8 @@ window.onload = querryButtons;
 
 function querryButtons()
 {
-    buttons = document.getElementsByClassName('grid-button');
+    
+    buttons = document.querySelectorAll('.grid-button');
     for(let i = 0; i < buttons.length; i++)
     {
         const button = buttons[i];
